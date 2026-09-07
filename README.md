@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ekta Singh
 
-## 📊 Data Analyst
+### Data Analyst | SQL | Power BI | Python | Tableau | Excel | Alteryx | Business Intelligence | ETL 
 
 I'm a Data Analyst with **2 years of experience** in data analytics and reporting. In my current role, I work with SQL Server, Power BI, Alteryx, Python, Tableau, and Excel to extract, clean, transform, and analyze data, build interactive dashboards, and automate ETL workflows for business reporting and data-driven decision-making.
 
