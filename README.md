@@ -102,9 +102,8 @@ I'm a Data Analyst with **2 years of experience** in data analytics and reportin
 * Cleaned and transformed data using Pyhon
 * Developed DAX measures for workforce and attrition KPIs
 * Built an interactive Power BI HR Attrition Dashboard
-* Analyzed attrition across departments, 
+* Analyzed attrition across departments, Education field, Gender and Age groups, and Job Satisfaction Rating
 * Identified key workforce patterns and prepared actionable business recommendations
-
 
 ### 🏬 Demand and Supply Cluster Analysis
 
@@ -140,6 +139,3 @@ Currently expanding my knowledge in:
 
 * Machine Learning
 * AI-powered Data Applications
-
-
-⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
