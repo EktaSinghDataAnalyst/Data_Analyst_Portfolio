@@ -107,15 +107,25 @@ I'm a Data Analyst with **2 years of experience** in data analytics and reportin
 
 ### 🏬 Demand and Supply Cluster Analysis
 
-**Tools:** SQL Server | Alteryx | Tableau  
+**Tools:** SQL Server | Alteryx | Tableau
 
-* 
+* Analyzed store latitude, longitude, and demand data for a retail client with 150+ stores across the US
+* Used cluster number to group stores into geographic demand clusters
+* Calculated weighted centroids to identify efficient warehouse locations based on demand priority
+* Evaluated multiple scenarios and recommended 3 warehouses
+* Built Tableau dashboards to present findings and business insights
+* Automated the workflow in Alteryx and stored final outputs in SQL Server
 
-### 📊 Order to Cash Analytics Dashboard
+### 💰 Order-to-Cash Analytics Project
 
-**Tools:** Tableau | SQL Server | Alteryx  
+**Tools:** Power BI | Alteryx | SQL
 
-*
+* Worked on an Order-to-Cash analytics solution for a retail client generating around 3,000 invoices per week
+* Analyzed 2 million transaction records to understand customer payment behavior and delayed payment patterns
+* Performed EDA and engineered 20+ features such as historical delay, invoice frequency, and outstanding amount
+* Automated data preparation and reporting workflows using Alteryx
+* Developed interactive Power BI dashboards for invoice tracking, predicted delays, and collection monitoring
+* Helped finance and sales teams improve cash flow visibility and prioritize high-risk invoices
 
 ---
 
